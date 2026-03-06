@@ -16,7 +16,7 @@ A real-time group chat application built with **Java Sockets (TCP)** and **JavaF
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/messagingApp.git
+git clone https://github.com/smoothSpikes/messagingApp.git
 cd messagingApp
 ```
 
@@ -135,7 +135,3 @@ cd tcpClient && mvn javafx:run
 - **Model-View separation**: Business logic independent of JavaFX UI
 
 ---
-
-## License
-
-MIT (or your preferred license)
