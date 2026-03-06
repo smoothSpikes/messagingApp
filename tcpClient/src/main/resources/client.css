@@ -1,0 +1,46 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom, #1f2933, #020617);
+}
+
+.top-bar {
+    -fx-padding: 8;
+    -fx-background-color: #020617;
+    -fx-border-color: #4b5563;
+    -fx-border-width: 0 0 1 0;
+}
+
+.bottom-bar {
+    -fx-padding: 8;
+    -fx-background-color: #020617;
+    -fx-border-color: #4b5563;
+    -fx-border-width: 1 0 0 0;
+}
+
+.label {
+    -fx-text-fill: #e5e7eb;
+}
+
+.text-field {
+    -fx-background-color: #020617;
+    -fx-text-fill: #e5e7eb;
+    -fx-prompt-text-fill: #6b7280;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-border-color: #4b5563;
+}
+
+.button {
+    -fx-background-radius: 6;
+    -fx-background-color: #2563eb;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: #1d4ed8;
+}
+
+.chat-area {
+    -fx-control-inner-background: #020617;
+    -fx-text-fill: #e5e7eb;
+}
+
